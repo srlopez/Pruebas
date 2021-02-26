@@ -2,7 +2,7 @@ Pruebas
 =======
 
 Mis pruebas 
-<img src = "http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/srlopez/Pruebas/master/README.md&idx=0" alt = "" / >
+<img src="http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/srlopez/Pruebas/master/README.md&idx=0" alt=""/>
 
 <details><summary>Code #0</summary>
 
